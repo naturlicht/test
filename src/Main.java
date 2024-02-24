@@ -5,6 +5,8 @@ public class Main {
         double df = freq - 936.899;
         int nCh = (int)(df / 0.2);
 
+        //
+
         System.out.println("nCh = " + nCh);
     }
 }
